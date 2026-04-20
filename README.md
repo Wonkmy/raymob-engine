@@ -1,14 +1,4 @@
-<img src="app/src/main/ic_launcher-playstore.png" alt="raymob icon" width="256" height="256">
-
-# raymob [![Targeting raylib 5.5+](https://img.shields.io/badge/raylib-5.5+-3DDC84)](https://raylib.com) [![Supported Platforms](https://img.shields.io/badge/Platform-Android-3DDC84)](https://developer.android.com/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![License](https://img.shields.io/badge/license-zlib%2Flibpng-blue.svg)](LICENSE)
-
-raymob is a simple implementation of [raylib](https://www.raylib.com/) for Android.
-
-## Prerequisites
-
-**You will need SDK API 34 and NDK r23 (or higher, compatible with CMake 3.30.3).**
-
-If you already have this version of SDK and NDK without having Android Studio, you should still be able to compile the project using `gradlew.bat` for Windows or `gradlew` for Linux or MacOS.
+一个自制的基于raylib的安卓项目引擎，可以直接打开开发安卓项目
 
 ## How to Use?
 
